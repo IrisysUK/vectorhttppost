@@ -1,0 +1,36 @@
+{
+  "CountLogs": [
+    {
+      "Counts": [
+        {
+          "Name": "Line 1",
+          "RegisterId": 0,
+          "Value": 121
+        },
+        {
+          "Name": "Line 2",
+          "RegisterId": 1,
+          "Value": 127
+        },
+        {
+          "Name": "Zone 1",
+          "RegisterId": 2,
+          "Value": 156
+        },
+        {
+          "Name": "Dwell",
+          "RegisterId": 3,
+          "Value": 382
+        },
+        {
+          "Name": "LineExclude",
+          "RegisterId": 4,
+          "Value": 125
+        }
+      ],
+      "LogEntryId": 353493,
+      "Timestamp": "2018-12-03T14:21:00Z"
+    }
+  ],
+  "FriendlyDeviceSerial": "V4D-17020025"
+}
